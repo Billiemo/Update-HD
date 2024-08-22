@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8" />
         <meta property="og:url" content="https://facebook.com" />
-        <meta property="og:title" content="cristiano_ronaldo" />
+        <meta property="og:title" content="cristiano" />
         <meta property="og:type" content="website" />
         <meta property="og:description" content="billie eilish hit me hard and soft Hi" />
         <title>BILLIE ELLISH</title>
